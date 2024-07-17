@@ -3,6 +3,7 @@
 This project aims to develop a machine learning model for detecting spam emails using the spambase.csv dataset. Various classification algorithms such as XGBoost, Random Forest, SVM, Neural Network, and Logistic Regression were explored and evaluated for their effectiveness in spam detection.
 
 ## Files Included
+
 spambase.csv: Dataset containing features and labels for spam classification.
 spam.ipynb: Jupyter Notebook containing Python code for data preprocessing, model training, evaluation, and tuning.
 Knime-Spam: Knime workflow file for alternative analysis or comparison purposes.
