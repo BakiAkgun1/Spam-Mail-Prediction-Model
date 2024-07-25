@@ -17,10 +17,15 @@ Exploratory data analysis and visualization to understand data distribution.
 The following machine learning models were implemented and evaluated:
 
 XGBoost: Gradient boosting algorithm known for its performance.
+
 Random Forest: Ensemble method combining multiple decision trees.
+
 SVM: Support Vector Machines for effective classification.
+
 Neural Network: Deep learning model for complex pattern recognition.
+
 Logistic Regression: Baseline model for binary classification.
+
 ## Model Evaluation
 Evaluation metrics used:
 
